@@ -1,3 +1,6 @@
+// to check this file configuration convention read 
+// the file  owm_credentials.h
+
 {
 	"WLAN": {
 		"ssid": "Your wifi ssid",
